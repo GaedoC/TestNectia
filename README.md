@@ -13,6 +13,9 @@ Diseño de capaz (MVC):
 
 Repositorio GIT: https://github.com/GaedoC/TestNectia
 
-Librerias: https://dev.to/abhi9720/a-beginners-guide-to-crud-operations-of-rest-api-in-spring-boot-mysql-5hcl
+Librerias:
+Descargar Eclipse:
+Descargar Pluggin de SpringBoot desde Eclipse Marketplace.
+https://dev.to/abhi9720/a-beginners-guide-to-crud-operations-of-rest-api-in-spring-boot-mysql-5hcl
 
 
