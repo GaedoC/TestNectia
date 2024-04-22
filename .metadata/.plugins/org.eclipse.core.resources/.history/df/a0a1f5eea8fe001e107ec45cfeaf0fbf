@@ -1,0 +1,4 @@
+# Configuracion Básica de un microservicio
+# Nombre del servicio esto es neecsario para utilizarlo en el balanceo de cargas.
+spring.application.name=servicio-productos
+server.port=8001
