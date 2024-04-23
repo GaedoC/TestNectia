@@ -63,7 +63,7 @@ Postman Collection Test Request: https://github.com/GaedoC/TestNectia/tree/main/
 Create
 ![image](https://github.com/GaedoC/TestNectia/assets/17816969/26676798-597e-4843-a422-e66e4f939933)
 Edit
-![image](https://github.com/GaedoC/TestNectia/assets/17816969/e9e4ba2e-9735-407b-91d5-9d2dfa057532)
+![image](https://github.com/GaedoC/TestNectia/assets/17816969/fdffcb5c-aae4-4a42-9ce2-67673392c391)
 Listar Todos
 ![image](https://github.com/GaedoC/TestNectia/assets/17816969/cbb8be31-584f-4442-926c-7326f55aeafd)
 
