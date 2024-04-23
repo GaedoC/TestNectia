@@ -34,16 +34,18 @@ ejecutar dentro de la carpeta Front End/my-app
 ##
 Back End
  Api CRUD de usuarios nectiaTest
-    Desde una terminal dentro de la carpeta ./nectiaTest: ejecutar en el orden lso siguientes commandos: 
+    Desde una terminal dentro de la proyecto(/nectiaTest), ejecutar en órden los siguientes pasos: 
 ##
-- La siguiente línea de comando actualiza el arquetipo MAVEN con las dependencias:
 1. mvn update
+- La siguiente línea de comando actualiza el arquetipo MAVEN con las dependencias:
+
 ##
-- Este comando Instala las dependencias y arma el Proyecto:
 2. mvn install
+- Este comando Instala las dependencias y arma el Proyecto:
 ##
-- Este comando ejecuta la apliación Spring boot , luego de este comando puedes probar con un request a la api de usuarios: 
 3. mvnw spring-boot:run
+- Este comando ejecuta la apliación Spring boot , luego de este comando puedes probar con un request a la api de usuarios: 
+
 
 
 
