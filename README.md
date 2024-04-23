@@ -28,7 +28,7 @@ GIT y GitHub
 Microservicio CRUD Clientes
 ##
 Back End : API REST CRUD Clientes
-    Desde una terminal dentro de la proyecto(/reactSpringBoot), ejecutar en órden los siguientes pasos:
+    Desde una terminal dentro del proyecto y dentro de la carpeta del proyecto " ./reactSpringBoot" con CMD o PowerShell ejecutar en el órden los siguientes comandos:
 ##
 1. mvn clean install
 - Este comando Instala las dependencias y arma el Proyecto.
