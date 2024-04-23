@@ -50,7 +50,7 @@ Postman Collection Test Request: https://github.com/GaedoC/TestNectia/tree/main/
 Create
 ![image](https://github.com/GaedoC/TestNectia/assets/17816969/26676798-597e-4843-a422-e66e4f939933)
 Edit
-![image](https://github.com/GaedoC/TestNectia/assets/17816969/fdffcb5c-aae4-4a42-9ce2-67673392c391)
+![image](https://github.com/GaedoC/TestNectia/assets/17816969/bee70268-ce71-4297-b34b-ac160a74894b)
 Listar Todos
 ![image](https://github.com/GaedoC/TestNectia/assets/17816969/cbb8be31-584f-4442-926c-7326f55aeafd)
 
@@ -75,7 +75,7 @@ Listar Cliente
 Eliminar Cliente
 ![image](https://github.com/GaedoC/TestNectia/assets/17816969/0086e6d9-4b2f-4998-aedb-c3e296295d60)
 Editar Cliente
-![image](https://github.com/GaedoC/TestNectia/assets/17816969/a8904f7b-dd82-461d-8407-846d38ddf643)
+![image](https://github.com/GaedoC/TestNectia/assets/17816969/fdffcb5c-aae4-4a42-9ce2-67673392c391)
 ##
 ##
 API REST CRUD USUARIO 
@@ -85,9 +85,14 @@ Back End : API REST CRUD USUARIO
 ##
 1. mvn clean install
 - Este comando Instala las dependencias y arma el Proyecto.
+- ![image](https://github.com/GaedoC/TestNectia/assets/17816969/6aebf247-13a0-4ebb-afc6-e81143b735b3)
+- ![image](https://github.com/GaedoC/TestNectia/assets/17816969/ec742219-f8bf-4de6-b169-e04c16175177)
+
 ##
 2. mvnw spring-boot:run
 - Este comando ejecuta la apliación Spring boot , luego de este comando puedes probar con un request a la api de usuarios.
+- ![image](https://github.com/GaedoC/TestNectia/assets/17816969/6d75fc94-70d3-4665-aed5-4e2085f03331)
+![image](https://github.com/GaedoC/TestNectia/assets/17816969/d7168b78-f636-4f5a-8750-d67842e442fa)
 ##
 
 
