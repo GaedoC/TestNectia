@@ -23,6 +23,8 @@ GIT
 Visual Studio Code
 CLI Unix /CLI CMD
 ##
+Desarrollo front end
+##
 React Native Aplication: my-app  
 ##
 Front End
@@ -30,6 +32,9 @@ Requisito tener instalado nodeJS y npm.
 ejecutar dentro de la carpeta Front End/my-app: 
 1. npm  start
 
+
+##
+Desarrollo back End
 ##
 Microservicio CRUD Clientes
 ##
