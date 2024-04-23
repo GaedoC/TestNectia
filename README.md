@@ -1,13 +1,16 @@
 # TestNectia
 
-Microservicio CRUD usuarios.
+Se contruyerón para esta prueba 2 microservicios 1 app con React Native.
 
-Introducción
-Back End
-Este proyecto fue creado con Java 11, SpringBoot, My Sql.
+##
+Tecnologías utilizadas:
+##
 
+Back End: Arquitectura API REST.
+ Java 11, SpringBoot, MySql.
 
-Diseño de capaz (MVC):
+Front End:
+ NodeJS, React native.
 
 Repositorio GIT: https://github.com/GaedoC/TestNectia
 
