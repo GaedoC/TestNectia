@@ -29,22 +29,25 @@ SpringBoot
 ##
 Aplicación:
 ##
-Front End/my-app Esta es la aplicación se debe tener instalado nodeJS.
-ejecutar dentro de la carpeta Front End/my-app
+Front End
+Requisito tener instalado nodeJS y npm.
+ejecutar dentro de la carpeta Front End/my-app: 
+1. npm  start
+
 ##
-Back End
+Back End : Microservicio CRUD USUARIO
  Api CRUD de usuarios nectiaTest
-    Desde una terminal dentro de la proyecto(/nectiaTest), ejecutar en órden los siguientes pasos: 
+    Desde una terminal dentro de la proyecto(/nectiaTest), ejecutar en órden los siguientes pasos:
 ##
 1. mvn update
-- La siguiente línea de comando actualiza el arquetipo MAVEN con las dependencias:
+- La siguiente línea de comando actualiza el arquetipo MAVEN con las dependencias.
 
 ##
 2. mvn install
-- Este comando Instala las dependencias y arma el Proyecto:
+- Este comando Instala las dependencias y arma el Proyecto.
 ##
 3. mvnw spring-boot:run
-- Este comando ejecuta la apliación Spring boot , luego de este comando puedes probar con un request a la api de usuarios: 
+- Este comando ejecuta la apliación Spring boot , luego de este comando puedes probar con un request a la api de usuarios.
 
 
 
