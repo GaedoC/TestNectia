@@ -33,17 +33,17 @@ Front End/my-app Esta es la aplicación se debe tener instalado nodeJS.
 ejecutar dentro de la carpeta Front End/my-app
 ##
 Back End
- es la api CRUD de usuarios nectiaTest
+ Api CRUD de usuarios nectiaTest
     Desde una terminal dentro de la carpeta ./nectiaTest: ejecutar en el orden lso siguientes commandos: 
 ##
 - La siguiente línea de comando actualiza el arquetipo MAVEN con las dependencias:
-1.mvn update
+1. mvn update
 ##
-- Este comando Instala las dependencias y arma el Proyecto.
-2.mvn install
+- Este comando Instala las dependencias y arma el Proyecto:
+2. mvn install
 ##
-Este comando ejecuta la apliación Spring boot , luego de este comando puedes probar con un request a la api de usuarios.
-3.mvnw spring-boot:run
+- Este comando ejecuta la apliación Spring boot , luego de este comando puedes probar con un request a la api de usuarios: 
+3. mvnw spring-boot:run
 
 
 
