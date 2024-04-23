@@ -4,7 +4,7 @@ Introducción:
 Se contruyerón para esta prueba 2 apis REST por el lado del back end y 1 aplicación con React Native para el front end.La applicación REACT consume como cliente la apli de Clientes desarrollada para esta prueba.
 
 ##
-##Tecnologías utilizadas:
+## Tecnologías utilizadas:
 ##
 
 Back End: Arquitectura API REST.
