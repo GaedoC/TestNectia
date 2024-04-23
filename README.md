@@ -25,8 +25,6 @@ Visual Studio Code
 CLI Unix /CLI CMD
 ##
 ##
-##
-##
 Desarrollo front end
 ##
 React Native Aplication: my-app  
