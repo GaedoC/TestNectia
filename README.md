@@ -7,7 +7,7 @@ Se contruyerón para esta prueba 2 apis REST por el lado del back end y 1 aplica
 ## Tecnologías utilizadas:
 ##
 
-Back End: Arquitectura API REST.
+Back End: Arquitectura API REST. 
  Lenguaje de programación Java JDK 11,SpringBoot Framework, Base de datos Relacional MySql, H2 base de datos en memoria.
 
 Front End:
