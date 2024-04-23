@@ -25,27 +25,6 @@ Visual Studio Code
 CLI Unix /CLI CMD / Power Shell
 ##
 ##
-Desarrollo front end
-##
-React Native Aplication: my-app  
-##
-Requisito tener instalado nodeJS y npm.
-ejecutar dentro de la carpeta Front End/my-app: 
-1. npm  start
-![image](https://github.com/GaedoC/TestNectia/assets/17816969/f808eb1e-f3b0-4220-954b-ea36ddde0408)
-
-Desde el navegador se visualizaría así:
-Crear un cliente
-![image](https://github.com/GaedoC/TestNectia/assets/17816969/80258b68-e2d5-40a6-bc1c-9b580c68926f)
-Listar Cliente
-![image](https://github.com/GaedoC/TestNectia/assets/17816969/02a5aa90-2a1a-45e8-8dc3-2e6b25ece576)
-Eliminar Cliente
-![image](https://github.com/GaedoC/TestNectia/assets/17816969/0086e6d9-4b2f-4998-aedb-c3e296295d60)
-Editar Cliente
-![image](https://github.com/GaedoC/TestNectia/assets/17816969/a8904f7b-dd82-461d-8407-846d38ddf643)
-
-##
-##
 Desarrollo back End
 ##
 Microservicio CRUD Clientes
@@ -83,4 +62,28 @@ Back End : Microservicio CRUD USUARIO
 ##
 Request Test:
 Postman Collection Test Request: https://github.com/GaedoC/TestNectia/tree/main/Postman%20Collection
+
+Desarrollo front end
+##
+React Native Aplication: my-app  
+##
+RequisitoS:
+  - Tener instalado nodeJS y npm
+  - Tener Ejecutando Api CRUD Clientes.
+
+ejecutar dentro de la carpeta Front End/my-app: 
+1. npm  start
+![image](https://github.com/GaedoC/TestNectia/assets/17816969/f808eb1e-f3b0-4220-954b-ea36ddde0408)
+
+Desde el navegador se visualizaría así:
+Crear un cliente
+![image](https://github.com/GaedoC/TestNectia/assets/17816969/80258b68-e2d5-40a6-bc1c-9b580c68926f)
+Listar Cliente
+![image](https://github.com/GaedoC/TestNectia/assets/17816969/02a5aa90-2a1a-45e8-8dc3-2e6b25ece576)
+Eliminar Cliente
+![image](https://github.com/GaedoC/TestNectia/assets/17816969/0086e6d9-4b2f-4998-aedb-c3e296295d60)
+Editar Cliente
+![image](https://github.com/GaedoC/TestNectia/assets/17816969/a8904f7b-dd82-461d-8407-846d38ddf643)
+
+##
 
