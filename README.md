@@ -32,7 +32,6 @@ Requisito tener instalado nodeJS y npm.
 ejecutar dentro de la carpeta Front End/my-app: 
 1. npm  start
 
-
 ##
 Desarrollo back End
 ##
