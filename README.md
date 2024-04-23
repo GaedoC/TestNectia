@@ -76,8 +76,9 @@ Eliminar Cliente
 ![image](https://github.com/GaedoC/TestNectia/assets/17816969/0086e6d9-4b2f-4998-aedb-c3e296295d60)
 Editar Cliente
 ![image](https://github.com/GaedoC/TestNectia/assets/17816969/a8904f7b-dd82-461d-8407-846d38ddf643)
-
-API REST CRUD USUARIO
+##
+##
+API REST CRUD USUARIO 
 ##
 Back End : API REST CRUD USUARIO
     Desde una terminal dentro de la proyecto(/nectiaTest), ejecutar en órden los siguientes pasos:
