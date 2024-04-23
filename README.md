@@ -16,7 +16,7 @@ Front End:
 Repositorio GIT: https://github.com/GaedoC/TestNectia
 
 ##
-Herramientas de desarrollo:
+## Herramientas de desarrollo:
 ##
 IDE Eclipse / SpringBoot (Descargar desde Eclipse Marketplace).
 Xammp
@@ -25,7 +25,7 @@ Visual Studio Code
 CLI Unix /CLI CMD / Power Shell
 ##
 ##
-Desarrollo back End
+## Desarrollo Back End
 ##
 Microservicio CRUD Clientes
 ##
@@ -34,36 +34,33 @@ Back End : Microservicio CRUD Clientes
 ##
 1. mvn clean install
 - Este comando Instala las dependencias y arma el Proyecto.
+
+![image](https://github.com/GaedoC/TestNectia/assets/17816969/9723ff3b-c729-4dd1-9cc9-07e8b9f23e67)
+![image](https://github.com/GaedoC/TestNectia/assets/17816969/0980be1c-c9d1-4753-8950-6f020e0820d2)
 ##
 2. mvnw spring-boot:run
-- Este comando ejecuta la apliación Spring boot , luego de este comando puedes probar con un request a la api de clientes.Esta api es la que consume la aplicación con React. Descargar postman colections con request de prueba de ambas apís : Postman Collection Test Request: https://github.com/GaedoC/TestNectia/tree/main/Postman%20Collection 
+- Este comando ejecuta la apliación Spring boot , luego de este comando puedes probar con un request a la api de clientes.Esta api es la que consume la aplicación con React. Descargar postman colections con request de prueba de ambas apís : Postman Collection Test Request: https://github.com/GaedoC/TestNectia/tree/main/Postman%20Collection.
+
+![image](https://github.com/GaedoC/TestNectia/assets/17816969/5d6a5d1c-9c01-477c-b831-c3d4c5f9cd63)
+![image](https://github.com/GaedoC/TestNectia/assets/17816969/040e4bd4-0db6-4ceb-a067-60bbb4fc75cf)
+##
 ##
 Microservicio CRUD USUARIO
 ##
 Back End : Microservicio CRUD USUARIO
     Desde una terminal dentro de la proyecto(/nectiaTest), ejecutar en órden los siguientes pasos:
 ##
-##
 1. mvn clean install
 - Este comando Instala las dependencias y arma el Proyecto.
-- 
-![image](https://github.com/GaedoC/TestNectia/assets/17816969/9723ff3b-c729-4dd1-9cc9-07e8b9f23e67)
-
-![image](https://github.com/GaedoC/TestNectia/assets/17816969/0980be1c-c9d1-4753-8950-6f020e0820d2)
-
 ##
 2. mvnw spring-boot:run
 - Este comando ejecuta la apliación Spring boot , luego de este comando puedes probar con un request a la api de usuarios.
-- 
-![image](https://github.com/GaedoC/TestNectia/assets/17816969/5d6a5d1c-9c01-477c-b831-c3d4c5f9cd63)
-
-![image](https://github.com/GaedoC/TestNectia/assets/17816969/040e4bd4-0db6-4ceb-a067-60bbb4fc75cf)
-
 ##
+## Postman Collection
 Request Test:
 Postman Collection Test Request: https://github.com/GaedoC/TestNectia/tree/main/Postman%20Collection
 
-Desarrollo front end
+## Desarrollo Front End
 ##
 React Native Aplication: my-app  
 ##
@@ -85,5 +82,4 @@ Eliminar Cliente
 Editar Cliente
 ![image](https://github.com/GaedoC/TestNectia/assets/17816969/a8904f7b-dd82-461d-8407-846d38ddf643)
 
-##
 
