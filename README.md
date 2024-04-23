@@ -60,6 +60,13 @@ Back End : Microservicio CRUD USUARIO
 Request Test:
 Postman Collection Test Request: https://github.com/GaedoC/TestNectia/tree/main/Postman%20Collection
 ##
+Create
+![image](https://github.com/GaedoC/TestNectia/assets/17816969/26676798-597e-4843-a422-e66e4f939933)
+Edit
+![image](https://github.com/GaedoC/TestNectia/assets/17816969/e9e4ba2e-9735-407b-91d5-9d2dfa057532)
+Listar Todos
+![image](https://github.com/GaedoC/TestNectia/assets/17816969/cbb8be31-584f-4442-926c-7326f55aeafd)
+
 ##
 ## Desarrollo Front End
 ##
