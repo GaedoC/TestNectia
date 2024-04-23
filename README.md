@@ -49,7 +49,7 @@ Back End : Microservicio CRUD Clientes
 - Este comando Instala las dependencias y arma el Proyecto.
 ##
 3. mvnw spring-boot:run
-- Este comando ejecuta la apliación Spring boot , luego de este comando puedes probar con un request a la api de clientes.Esta api es la que consume la aplicación con React.
+- Este comando ejecuta la apliación Spring boot , luego de este comando puedes probar con un request a la api de clientes.Esta api es la que consume la aplicación con React. Descargar postman colections con request de prueba de ambas apís : Postman Collection Test Request: https://github.com/GaedoC/TestNectia/tree/main/Postman%20Collection 
 ##
 Microservicio CRUD USUARIO
 ##
