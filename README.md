@@ -85,6 +85,9 @@ Importar Script de la base de datos que esta en repo: https://github.com/GaedoC/
 
 ![image](https://github.com/GaedoC/TestNectia/assets/17816969/51eaa9dc-77d9-4ded-a36a-32b0e75dc3e4)
 
+Consulta tabla users:
+![image](https://github.com/GaedoC/TestNectia/assets/17816969/9e771163-6dc1-4f2c-8246-830c41cb667a)
+
 Credenciales:Deben ser las mismas que el archivo application.properties de la api de usuarios.
 
 Data Base:nectiadb
