@@ -4,7 +4,7 @@ Microservicio CRUD usuarios.
 
 Introducción
 Back End
-Este proyecto fue creado con Jakarta, SpringBoot, My Sql utilizando Eclipse IDE, JPA Repository, REST.
+Este proyecto fue creado con Java 11, SpringBoot, My Sql.
 
 
 Diseño de capaz (MVC):
