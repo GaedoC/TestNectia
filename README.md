@@ -19,8 +19,8 @@ Repositorio GIT: https://github.com/GaedoC/TestNectia
 ## Herramientas de desarrollo:
 ##
 IDE Eclipse / SpringBoot (Descargar desde Eclipse Marketplace) o Power Shell, 
-Visual Studio Code o Power Shell
-GIT / GitHub
+Visual Studio Code o Power Shell,
+GIT y GitHub
 ##
 ##
 ## Desarrollo Back End
