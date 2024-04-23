@@ -24,15 +24,17 @@ GIT
 Visual Studio Code
 CLI Unix /CLI CMD
 ##
+##
+##
+##
 Desarrollo front end
 ##
 React Native Aplication: my-app  
 ##
-Front End
 Requisito tener instalado nodeJS y npm.
 ejecutar dentro de la carpeta Front End/my-app: 
 1. npm  start
-
+##
 ##
 Desarrollo back End
 ##
@@ -41,14 +43,10 @@ Microservicio CRUD Clientes
 Back End : Microservicio CRUD Clientes
     Desde una terminal dentro de la proyecto(/reactSpringBoot), ejecutar en órden los siguientes pasos:
 ##
-1. mvn update
-- La siguiente línea de comando actualiza el arquetipo MAVEN con las dependencias.
-
-##
-2. mvn install
+1. mvn clean install
 - Este comando Instala las dependencias y arma el Proyecto.
 ##
-3. mvnw spring-boot:run
+2. mvnw spring-boot:run
 - Este comando ejecuta la apliación Spring boot , luego de este comando puedes probar con un request a la api de clientes.Esta api es la que consume la aplicación con React. Descargar postman colections con request de prueba de ambas apís : Postman Collection Test Request: https://github.com/GaedoC/TestNectia/tree/main/Postman%20Collection 
 ##
 Microservicio CRUD USUARIO
@@ -56,16 +54,13 @@ Microservicio CRUD USUARIO
 Back End : Microservicio CRUD USUARIO
     Desde una terminal dentro de la proyecto(/nectiaTest), ejecutar en órden los siguientes pasos:
 ##
-1. mvn update
-- La siguiente línea de comando actualiza el arquetipo MAVEN con las dependencias.
-
 ##
-2. mvn install
+1. mvn clean install
 - Este comando Instala las dependencias y arma el Proyecto.
 ##
-3. mvnw spring-boot:run
+2. mvnw spring-boot:run
 - Este comando ejecuta la apliación Spring boot , luego de este comando puedes probar con un request a la api de usuarios.
-
-
+##
+Request Test:
 Postman Collection Test Request: https://github.com/GaedoC/TestNectia/tree/main/Postman%20Collection
 
