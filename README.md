@@ -7,30 +7,23 @@ Tecnologías utilizadas:
 ##
 
 Back End: Arquitectura API REST.
- Java 11, SpringBoot, MySql.
+ Lenguaje de programación Java JDK 11,SpringBoot Framework, Base de datos Relacional MySql, H2 base de datos en memoria.
 
 Front End:
  NodeJS, React native.
 
 Repositorio GIT: https://github.com/GaedoC/TestNectia
 
-Front End
-React Native, NodeJS
-
-Herramientas:
-
-Eclipse
-Pluggin de SpringBoot desde Eclipse Marketplace.
-Intalar Servidor MySQL Local.
-GIT
-Visual StudIO Code
-Open JDK
-NodeJS
-CLI Unix
-Maven
-SpringBoot
 ##
-Aplicación:
+Herramientas de desarrollo:
+##
+IDE Eclipse / SpringBoot (Descargar desde Eclipse Marketplace).
+Xammp
+GIT
+Visual Studio Code
+CLI Unix /CLI CMD
+##
+React Native Aplication: my-app  
 ##
 Front End
 Requisito tener instalado nodeJS y npm.
