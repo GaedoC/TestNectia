@@ -27,7 +27,7 @@ GIT y GitHub
 ##
 Microservicio CRUD Clientes
 ##
-Back End : Microservicio CRUD Clientes
+Back End : API REST CRUD Clientes
     Desde una terminal dentro de la proyecto(/reactSpringBoot), ejecutar en órden los siguientes pasos:
 ##
 1. mvn clean install
@@ -42,17 +42,6 @@ Back End : Microservicio CRUD Clientes
 ![image](https://github.com/GaedoC/TestNectia/assets/17816969/5d6a5d1c-9c01-477c-b831-c3d4c5f9cd63)
 ![image](https://github.com/GaedoC/TestNectia/assets/17816969/040e4bd4-0db6-4ceb-a067-60bbb4fc75cf)
 ##
-##
-Microservicio CRUD USUARIO
-##
-Back End : Microservicio CRUD USUARIO
-    Desde una terminal dentro de la proyecto(/nectiaTest), ejecutar en órden los siguientes pasos:
-##
-1. mvn clean install
-- Este comando Instala las dependencias y arma el Proyecto.
-##
-2. mvnw spring-boot:run
-- Este comando ejecuta la apliación Spring boot , luego de este comando puedes probar con un request a la api de usuarios.
 ##
 ## Postman Collection
 Request Test:
@@ -87,5 +76,17 @@ Eliminar Cliente
 ![image](https://github.com/GaedoC/TestNectia/assets/17816969/0086e6d9-4b2f-4998-aedb-c3e296295d60)
 Editar Cliente
 ![image](https://github.com/GaedoC/TestNectia/assets/17816969/a8904f7b-dd82-461d-8407-846d38ddf643)
+
+API REST CRUD USUARIO
+##
+Back End : API REST CRUD USUARIO
+    Desde una terminal dentro de la proyecto(/nectiaTest), ejecutar en órden los siguientes pasos:
+##
+1. mvn clean install
+- Este comando Instala las dependencias y arma el Proyecto.
+##
+2. mvnw spring-boot:run
+- Este comando ejecuta la apliación Spring boot , luego de este comando puedes probar con un request a la api de usuarios.
+##
 
 
