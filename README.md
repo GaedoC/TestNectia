@@ -78,6 +78,17 @@ Editar Cliente
 ![image](https://github.com/GaedoC/TestNectia/assets/17816969/fdffcb5c-aae4-4a42-9ce2-67673392c391)
 ##
 ##
+## Base de datos 
+##
+Crear Base de datos de nombre : "nectiadb". Esta Base de datos la utilizará la api REST de usuarios.
+Importar Script de la base de datos que esta en repo: https://github.com/GaedoC/TestNectia/blob/main/Base%20de%20datos/nectiadb.sql y ejecutar desde una base datos MySQL.
+
+Credenciales:Deben ser las mismas que el archivo property de la api de usuarios.
+
+Data Base:nectiadb
+User:root
+Password: 
+##
 API REST CRUD USUARIO 
 ##
 Back End : API REST CRUD USUARIO
