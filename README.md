@@ -5,8 +5,6 @@ Se contruyerón para esta prueba 2 apis REST por el lado del back end y 1 aplica
 
 ##
 ## Tecnologías utilizadas:
-##
-
 Back End: Arquitectura API REST. 
  Lenguaje de programación Java JDK 11,SpringBoot Framework, Base de datos Relacional MySql, H2 base de datos en memoria.
 
@@ -17,7 +15,6 @@ Repositorio GIT: https://github.com/GaedoC/TestNectia
 
 ##
 ## Herramientas de desarrollo:
-##
 IDE Eclipse / SpringBoot (Descargar desde Eclipse Marketplace) o Power Shell, 
 Visual Studio Code o Power Shell,
 GIT y GitHub
@@ -29,9 +26,7 @@ Test Split.io
 ##
 ##
 ## Desarrollo Back End
-##
 Microservicio CRUD Clientes
-##
 Back End : API REST CRUD Clientes
     Desde una terminal dentro del proyecto y dentro de la carpeta del proyecto " ./reactSpringBoot" con CMD o PowerShell ejecutar en el órden los siguientes comandos:
 ##
@@ -61,7 +56,6 @@ Listar Todos
 
 ##
 ## Desarrollo Front End
-##
 React Native Aplication: my-app  
 ##
 RequisitoS:
@@ -84,7 +78,6 @@ Editar Cliente
 ##
 ##
 ## Base de datos 
-##
 Crear Base de datos de nombre : "nectiadb". Esta Base de datos la utilizará la api REST de usuarios.
 Importar Script de la base de datos que esta en repo: https://github.com/GaedoC/TestNectia/blob/main/Base%20de%20datos/nectiadb.sql y ejecutar desde una base datos MySQL.
 
@@ -105,7 +98,6 @@ Archivo: application.properties
 ##
 ##
 ## API REST CRUD USUARIO 
-##
 Back End : API REST CRUD USUARIO
     Desde una terminal dentro de la proyecto(/nectiaTest), ejecutar en órden los siguientes pasos:
 ##
