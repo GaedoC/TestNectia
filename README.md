@@ -17,12 +17,8 @@ Repositorio GIT: https://github.com/GaedoC/TestNectia
 ## Herramientas de desarrollo:
 IDE Eclipse / SpringBoot (Descargar desde Eclipse Marketplace) o Power Shell, 
 Visual Studio Code o Power Shell,
-GIT y GitHub
 Maven
-Open API Swagger
-Automatización con Postman JS
-Implementar en CLOUD GCP.
-Test Split.io
+
 ##
 ##
 ## Desarrollo Back End
